@@ -7,8 +7,11 @@
     font-family: Poppins;
     
 }
-body{
+.container{
     background-image: url(./assets/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .navbar{
     display: flex;
